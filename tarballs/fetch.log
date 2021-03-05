@@ -1,0 +1,911 @@
+Вт фев 16 16:25:03 MSK 2021
+--2021-02-16 16:25:03--  https://dev-www.libreoffice.org/src/libabw-0.1.3.tar.xz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 318808 (311K) [application/octet-stream]
+Сохранение в: «./libabw-0.1.3.tar.xz»
+
+     0K ....                                                 100% 1,27M=0,2s
+
+2021-02-16 16:25:04 (1,27 MB/s) - «./libabw-0.1.3.tar.xz» сохранён [318808/318808]
+
+--2021-02-16 16:25:04--  https://dev-www.libreoffice.org/src/boost_1_65_1.tar.bz2
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 82594767 (79M) [application/octet-stream]
+Сохранение в: «./boost_1_65_1.tar.bz2»
+
+     0K ........ ........ ........ ........ ........ ........  3% 1,10M 69s
+  3072K ........ ........ ........ ........ ........ ........  7%  487K 1m50s
+  6144K ........ ........ ........ ........ ........ ........ 11%  645K 1m47s
+  9216K ........ ........ ........ ........ ........ ........ 15%  705K 1m41s
+ 12288K ........ ........ ........ ........ ........ ........ 19%  709K 96s
+ 15360K ........ ........ ........ ........ ........ ........ 22%  620K 93s
+ 18432K ........ ........ ........ ........ ........ ........ 26%  633K 89s
+ 21504K ........ ........ ........ ........ ........ ........ 30%  744K 83s
+ 24576K ........ ........ ........ ........ ........ ........ 34%  629K 79s
+ 27648K ........ ........ ........ ........ ........ ........ 38%  713K 74s
+ 30720K ........ ........ ........ ........ ........ ........ 41%  873K 68s
+ 33792K ........ ........ ........ ........ ........ ........ 45%  625K 64s
+ 36864K ........ ........ ........ ........ ........ ........ 49%  785K 59s
+ 39936K ........ ........ ........ ........ ........ ........ 53%  525K 56s
+ 43008K ........ ........ ........ ........ ........ ........ 57%  818K 51s
+ 46080K ........ ........ ........ ........ ........ ........ 60%  646K 46s
+ 49152K ........ ........ ........ ........ ........ ........ 64%  724K 42s
+ 52224K ........ ........ ........ ........ ........ ........ 68%  504K 38s
+ 55296K ........ ........ ........ ........ ........ ........ 72%  760K 33s
+ 58368K ........ ........ ........ ........ ........ ........ 76%  829K 28s
+ 61440K ........ ........ ........ ........ ........ ........ 79%  983K 23s
+ 64512K ........ ........ ........ ........ ........ ........ 83% 1,20M 19s
+ 67584K ........ ........ ........ ........ ........ ........ 87% 1,04M 14s
+ 70656K ........ ........ ........ ........ ........ ........ 91%  877K 10s
+ 73728K ........ ........ ........ ........ ........ ........ 95%  812K 5s
+ 76800K ........ ........ ........ ........ ........ ........ 99%  781K 1s
+ 79872K ........ ....                                        100%  599K=1m51s
+
+2021-02-16 16:26:56 (724 KB/s) - «./boost_1_65_1.tar.bz2» сохранён [82594767/82594767]
+
+--2021-02-16 16:26:56--  https://dev-www.libreoffice.org/src/libcdr-0.1.4.tar.xz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 609592 (595K) [application/octet-stream]
+Сохранение в: «./libcdr-0.1.4.tar.xz»
+
+     0K ........ .                                           100%  465K=1,3s
+
+2021-02-16 16:26:58 (465 KB/s) - «./libcdr-0.1.4.tar.xz» сохранён [609592/609592]
+
+--2021-02-16 16:26:58--  https://dev-www.libreoffice.org/src/48d647fbd8ef8889e5a7f422c1bfda94-clucene-core-2.3.3.4.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 2241498 (2,1M) [application/octet-stream]
+Сохранение в: «./48d647fbd8ef8889e5a7f422c1bfda94-clucene-core-2.3.3.4.tar.gz»
+
+     0K ........ ........ ........ ........ ..               100%  216K=10s
+
+2021-02-16 16:27:08 (216 KB/s) - «./48d647fbd8ef8889e5a7f422c1bfda94-clucene-core-2.3.3.4.tar.gz» сохранён [2241498/2241498]
+
+--2021-02-16 16:27:08--  https://dev-www.libreoffice.org/src/libcmis-0.5.1.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 767701 (750K) [application/octet-stream]
+Сохранение в: «./libcmis-0.5.1.tar.gz»
+
+     0K ........ ...                                         100%  473K=1,6s
+
+2021-02-16 16:27:10 (473 KB/s) - «./libcmis-0.5.1.tar.gz» сохранён [767701/767701]
+
+--2021-02-16 16:27:10--  https://dev-www.libreoffice.org/src/CoinMP-1.7.6.tgz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 10343849 (9,9M) [application/octet-stream]
+Сохранение в: «./CoinMP-1.7.6.tgz»
+
+     0K ........ ........ ........ ........ ........ ........ 30%  441K 16s
+  3072K ........ ........ ........ ........ ........ ........ 60%  237K 13s
+  6144K ........ ........ ........ ........ ........ ........ 91%  260K 3s
+  9216K ........ .....                                       100%  252K=35s
+
+2021-02-16 16:27:46 (286 KB/s) - «./CoinMP-1.7.6.tgz» сохранён [10343849/10343849]
+
+--2021-02-16 16:27:46--  https://dev-www.libreoffice.org/src/cppunit-1.14.0.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 959716 (937K) [application/octet-stream]
+Сохранение в: «./cppunit-1.14.0.tar.gz»
+
+     0K ........ ......                                      100%  419K=2,2s
+
+2021-02-16 16:27:48 (419 KB/s) - «./cppunit-1.14.0.tar.gz» сохранён [959716/959716]
+
+--2021-02-16 16:27:48--  https://dev-www.libreoffice.org/src/curl-7.71.0.tar.xz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 2379056 (2,3M) [application/octet-stream]
+Сохранение в: «./curl-7.71.0.tar.xz»
+
+     0K ........ ........ ........ ........ ....             100%  719K=3,2s
+
+2021-02-16 16:27:52 (719 KB/s) - «./curl-7.71.0.tar.xz» сохранён [2379056/2379056]
+
+--2021-02-16 16:27:52--  https://dev-www.libreoffice.org/src/libe-book-0.1.3.tar.xz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 416268 (407K) [application/octet-stream]
+Сохранение в: «./libe-book-0.1.3.tar.xz»
+
+     0K ......                                               100%  748K=0,5s
+
+2021-02-16 16:27:53 (748 KB/s) - «./libe-book-0.1.3.tar.xz» сохранён [416268/416268]
+
+--2021-02-16 16:27:53--  https://dev-www.libreoffice.org/src/libepubgen-0.1.0.tar.bz2
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 398811 (389K) [application/octet-stream]
+Сохранение в: «./libepubgen-0.1.0.tar.bz2»
+
+     0K ......                                               100%  282K=1,4s
+
+2021-02-16 16:27:55 (282 KB/s) - «./libepubgen-0.1.0.tar.bz2» сохранён [398811/398811]
+
+--2021-02-16 16:27:55--  https://dev-www.libreoffice.org/src/libetonyek-0.1.7.tar.xz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1256232 (1,2M) [application/octet-stream]
+Сохранение в: «./libetonyek-0.1.7.tar.xz»
+
+     0K ........ ........ ...                                100%  647K=1,9s
+
+2021-02-16 16:27:57 (647 KB/s) - «./libetonyek-0.1.7.tar.xz» сохранён [1256232/1256232]
+
+--2021-02-16 16:27:57--  https://dev-www.libreoffice.org/src/expat-2.2.8.tar.bz2
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 520377 (508K) [application/octet-stream]
+Сохранение в: «./expat-2.2.8.tar.bz2»
+
+     0K .......                                              100%  819K=0,6s
+
+2021-02-16 16:27:58 (819 KB/s) - «./expat-2.2.8.tar.bz2» сохранён [520377/520377]
+
+--2021-02-16 16:27:58--  https://dev-www.libreoffice.org/src/libfreehand-0.1.2.tar.xz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 516132 (504K) [application/octet-stream]
+Сохранение в: «./libfreehand-0.1.2.tar.xz»
+
+     0K .......                                              100%  361K=1,4s
+
+2021-02-16 16:28:00 (361 KB/s) - «./libfreehand-0.1.2.tar.xz» сохранён [516132/516132]
+
+--2021-02-16 16:28:00--  https://dev-www.libreoffice.org/src/libepoxy-1.3.1.tar.bz2
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 820119 (801K) [application/octet-stream]
+Сохранение в: «./libepoxy-1.3.1.tar.bz2»
+
+     0K ........ ....                                        100%  259K=3,1s
+
+2021-02-16 16:28:03 (259 KB/s) - «./libepoxy-1.3.1.tar.bz2» сохранён [820119/820119]
+
+--2021-02-16 16:28:03--  https://dev-www.libreoffice.org/src/bae83fa5dc7f081768daace6e199adc3-glm-0.9.4.6-libreoffice.zip
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 5290295 (5,0M) [application/zip]
+Сохранение в: «./bae83fa5dc7f081768daace6e199adc3-glm-0.9.4.6-libreoffice.zip»
+
+     0K ........ ........ ........ ........ ........ ........ 59%  709K 3s
+  3072K ........ ........ ........ ........                  100%  671K=7,5s
+
+2021-02-16 16:28:11 (693 KB/s) - «./bae83fa5dc7f081768daace6e199adc3-glm-0.9.4.6-libreoffice.zip» сохранён [5290295/5290295]
+
+--2021-02-16 16:28:11--  https://dev-www.libreoffice.org/src/gpgme-1.9.0.tar.bz2
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1344222 (1,3M) [application/octet-stream]
+Сохранение в: «./gpgme-1.9.0.tar.bz2»
+
+     0K ........ ........ ....                               100%  221K=5,9s
+
+2021-02-16 16:28:17 (221 KB/s) - «./gpgme-1.9.0.tar.bz2» сохранён [1344222/1344222]
+
+--2021-02-16 16:28:17--  https://dev-www.libreoffice.org/src/graphite2-minimal-1.3.10.tgz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 155690 (152K) [application/octet-stream]
+Сохранение в: «./graphite2-minimal-1.3.10.tgz»
+
+     0K ..                                                   100%  377K=0,4s
+
+2021-02-16 16:28:18 (377 KB/s) - «./graphite2-minimal-1.3.10.tgz» сохранён [155690/155690]
+
+--2021-02-16 16:28:18--  https://dev-www.libreoffice.org/src/harfbuzz-1.7.0.tar.bz2
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1661573 (1,6M) [application/octet-stream]
+Сохранение в: «./harfbuzz-1.7.0.tar.bz2»
+
+     0K ........ ........ ........ .                         100%  153K=11s
+
+2021-02-16 16:28:29 (153 KB/s) - «./harfbuzz-1.7.0.tar.bz2» сохранён [1661573/1661573]
+
+--2021-02-16 16:28:29--  https://dev-www.libreoffice.org/src/hunspell-1.6.2.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 721165 (704K) [application/octet-stream]
+Сохранение в: «./hunspell-1.6.2.tar.gz»
+
+     0K ........ ...                                         100%  354K=2,0s
+
+2021-02-16 16:28:31 (354 KB/s) - «./hunspell-1.6.2.tar.gz» сохранён [721165/721165]
+
+--2021-02-16 16:28:31--  https://dev-www.libreoffice.org/src/5ade6ae2a99bc1e9e57031ca88d36dad-hyphen-2.8.8.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 638369 (623K) [application/octet-stream]
+Сохранение в: «./5ade6ae2a99bc1e9e57031ca88d36dad-hyphen-2.8.8.tar.gz»
+
+     0K ........ .                                           100%  185K=3,4s
+
+2021-02-16 16:28:35 (185 KB/s) - «./5ade6ae2a99bc1e9e57031ca88d36dad-hyphen-2.8.8.tar.gz» сохранён [638369/638369]
+
+--2021-02-16 16:28:35--  https://dev-www.libreoffice.org/src/icu4c-60_2-src.tgz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 23317835 (22M) [application/octet-stream]
+Сохранение в: «./icu4c-60_2-src.tgz»
+
+     0K ........ ........ ........ ........ ........ ........ 13%  188K 1m45s
+  3072K ........ ........ ........ ........ ........ ........ 26%  225K 81s
+  6144K ........ ........ ........ ........ ........ ........ 40%  341K 57s
+  9216K ........ ........ ........ ........ ........ ........ 53%  185K 47s
+ 12288K ........ ........ ........ ........ ........ ........ 67%  163K 36s
+ 15360K ........ ........ ........ ........ ........ ........ 80%  234K 21s
+ 18432K ........ ........ ........ ........ ........ ........ 94%  302K 6s
+ 21504K ........ ........ ...                                100%  263K=1m43s
+
+2021-02-16 16:30:18 (222 KB/s) - «./icu4c-60_2-src.tgz» сохранён [23317835/23317835]
+
+--2021-02-16 16:30:18--  https://dev-www.libreoffice.org/src/icu4c-60_2-data.zip
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 15940781 (15M) [application/zip]
+Сохранение в: «./icu4c-60_2-data.zip»
+
+     0K ........ ........ ........ ........ ........ ........ 19%  425K 29s
+  3072K ........ ........ ........ ........ ........ ........ 39%  539K 20s
+  6144K ........ ........ ........ ........ ........ ........ 59%  584K 13s
+  9216K ........ ........ ........ ........ ........ ........ 78%  523K 6s
+ 12288K ........ ........ ........ ........ ........ ........ 98%  404K 0s
+ 15360K ...                                                  100%  321K=32s
+
+2021-02-16 16:30:51 (482 KB/s) - «./icu4c-60_2-data.zip» сохранён [15940781/15940781]
+
+--2021-02-16 16:30:51--  https://dev-www.libreoffice.org/src/lcms2-2.9.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 10974649 (10M) [application/octet-stream]
+Сохранение в: «./lcms2-2.9.tar.gz»
+
+     0K ........ ........ ........ ........ ........ ........ 28%  408K 19s
+  3072K ........ ........ ........ ........ ........ ........ 57%  416K 11s
+  6144K ........ ........ ........ ........ ........ ........ 85%  299K 4s
+  9216K ........ ........ .......                            100%  520K=28s
+
+2021-02-16 16:31:19 (382 KB/s) - «./lcms2-2.9.tar.gz» сохранён [10974649/10974649]
+
+--2021-02-16 16:31:19--  https://dev-www.libreoffice.org/src/libassuan-2.4.3.tar.bz2
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 559867 (547K) [application/octet-stream]
+Сохранение в: «./libassuan-2.4.3.tar.bz2»
+
+     0K ........                                             100%  562K=1,0s
+
+2021-02-16 16:31:21 (562 KB/s) - «./libassuan-2.4.3.tar.bz2» сохранён [559867/559867]
+
+--2021-02-16 16:31:21--  https://dev-www.libreoffice.org/src/libexttextcat-3.4.5.tar.xz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1041268 (1017K) [application/octet-stream]
+Сохранение в: «./libexttextcat-3.4.5.tar.xz»
+
+     0K ........ .......                                     100%  562K=1,8s
+
+2021-02-16 16:31:23 (562 KB/s) - «./libexttextcat-3.4.5.tar.xz» сохранён [1041268/1041268]
+
+--2021-02-16 16:31:23--  https://dev-www.libreoffice.org/src/libgpg-error-1.27.tar.bz2
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 813060 (794K) [application/octet-stream]
+Сохранение в: «./libgpg-error-1.27.tar.bz2»
+
+     0K ........ ....                                        100%  576K=1,4s
+
+2021-02-16 16:31:25 (576 KB/s) - «./libgpg-error-1.27.tar.bz2» сохранён [813060/813060]
+
+--2021-02-16 16:31:25--  https://dev-www.libreoffice.org/src/language-subtag-registry-2019-04-03.tar.bz2
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 75120 (73K) [application/octet-stream]
+Сохранение в: «./language-subtag-registry-2019-04-03.tar.bz2»
+
+     0K .                                                    100%  504K=0,1s
+
+2021-02-16 16:31:25 (504 KB/s) - «./language-subtag-registry-2019-04-03.tar.bz2» сохранён [75120/75120]
+
+--2021-02-16 16:31:25--  https://dev-www.libreoffice.org/src/liblangtag-0.6.2.tar.bz2
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 766080 (748K) [application/octet-stream]
+Сохранение в: «./liblangtag-0.6.2.tar.bz2»
+
+     0K ........ ...                                         100%  405K=1,8s
+
+2021-02-16 16:31:27 (405 KB/s) - «./liblangtag-0.6.2.tar.bz2» сохранён [766080/766080]
+
+--2021-02-16 16:31:27--  https://dev-www.libreoffice.org/src/xmlsec1-1.2.25.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1839160 (1,8M) [application/octet-stream]
+Сохранение в: «./xmlsec1-1.2.25.tar.gz»
+
+     0K ........ ........ ........ ....                      100%  582K=3,1s
+
+2021-02-16 16:31:31 (582 KB/s) - «./xmlsec1-1.2.25.tar.gz» сохранён [1839160/1839160]
+
+--2021-02-16 16:31:31--  https://dev-www.libreoffice.org/src/26b3e95ddf3d9c077c480ea45874b3b8-lp_solve_5.5.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 769268 (751K) [application/octet-stream]
+Сохранение в: «./26b3e95ddf3d9c077c480ea45874b3b8-lp_solve_5.5.tar.gz»
+
+     0K ........ ...                                         100%  714K=1,1s
+
+2021-02-16 16:31:32 (714 KB/s) - «./26b3e95ddf3d9c077c480ea45874b3b8-lp_solve_5.5.tar.gz» сохранён [769268/769268]
+
+--2021-02-16 16:31:32--  https://dev-www.libreoffice.org/src/mariadb-connector-c-3.1.8-src.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 744745 (727K) [application/octet-stream]
+Сохранение в: «./mariadb-connector-c-3.1.8-src.tar.gz»
+
+     0K ........ ...                                         100%  585K=1,2s
+
+2021-02-16 16:31:34 (585 KB/s) - «./mariadb-connector-c-3.1.8-src.tar.gz» сохранён [744745/744745]
+
+--2021-02-16 16:31:34--  https://dev-www.libreoffice.org/src/mdds-1.3.1.tar.bz2
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 287612 (281K) [application/octet-stream]
+Сохранение в: «./mdds-1.3.1.tar.bz2»
+
+     0K ....                                                 100%  566K=0,5s
+
+2021-02-16 16:31:34 (566 KB/s) - «./mdds-1.3.1.tar.bz2» сохранён [287612/287612]
+
+--2021-02-16 16:31:34--  https://dev-www.libreoffice.org/src/368f114c078f94214a308a74c7e991bc-crosextrafonts-20130214.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 112756 (110K) [application/octet-stream]
+Сохранение в: «./368f114c078f94214a308a74c7e991bc-crosextrafonts-20130214.tar.gz»
+
+     0K .                                                    100%  274K=0,4s
+
+2021-02-16 16:31:35 (274 KB/s) - «./368f114c078f94214a308a74c7e991bc-crosextrafonts-20130214.tar.gz» сохранён [112756/112756]
+
+--2021-02-16 16:31:35--  https://dev-www.libreoffice.org/src/c74b7223abe75949b4af367942d96c7a-crosextrafonts-carlito-20130920.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1169488 (1,1M) [application/octet-stream]
+Сохранение в: «./c74b7223abe75949b4af367942d96c7a-crosextrafonts-carlito-20130920.tar.gz»
+
+     0K ........ ........ .                                  100%  604K=1,9s
+
+2021-02-16 16:31:37 (604 KB/s) - «./c74b7223abe75949b4af367942d96c7a-crosextrafonts-carlito-20130920.tar.gz» сохранён [1169488/1169488]
+
+--2021-02-16 16:31:37--  https://dev-www.libreoffice.org/src/33e1e61fab06a547851ed308b4ffef42-dejavu-fonts-ttf-2.37.zip
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 5522795 (5,3M) [application/zip]
+Сохранение в: «./33e1e61fab06a547851ed308b4ffef42-dejavu-fonts-ttf-2.37.zip»
+
+     0K ........ ........ ........ ........ ........ ........ 56%  613K 4s
+  3072K ........ ........ ........ ........ ....             100%  697K=8,3s
+
+2021-02-16 16:31:46 (646 KB/s) - «./33e1e61fab06a547851ed308b4ffef42-dejavu-fonts-ttf-2.37.zip» сохранён [5522795/5522795]
+
+--2021-02-16 16:31:46--  https://dev-www.libreoffice.org/src/1725634df4bb3dcb1b2c91a6175f8789-GentiumBasic_1102.zip
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 811606 (793K) [application/zip]
+Сохранение в: «./1725634df4bb3dcb1b2c91a6175f8789-GentiumBasic_1102.zip»
+
+     0K ........ ....                                        100%  490K=1,6s
+
+2021-02-16 16:31:48 (490 KB/s) - «./1725634df4bb3dcb1b2c91a6175f8789-GentiumBasic_1102.zip» сохранён [811606/811606]
+
+--2021-02-16 16:31:48--  https://dev-www.libreoffice.org/src/506757f768adb2331881d5186f7286bd-karla.zip
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 45944 (45K) [application/zip]
+Сохранение в: «./506757f768adb2331881d5186f7286bd-karla.zip»
+
+     0K                                                      100%  973K=0,05s
+
+2021-02-16 16:31:48 (973 KB/s) - «./506757f768adb2331881d5186f7286bd-karla.zip» сохранён [45944/45944]
+
+--2021-02-16 16:31:48--  https://dev-www.libreoffice.org/src/134d8262145fc793c6af494dcace3e71-liberation-fonts-ttf-1.07.4.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1333593 (1,3M) [application/octet-stream]
+Сохранение в: «./134d8262145fc793c6af494dcace3e71-liberation-fonts-ttf-1.07.4.tar.gz»
+
+     0K ........ ........ ....                               100%  569K=2,3s
+
+2021-02-16 16:31:51 (569 KB/s) - «./134d8262145fc793c6af494dcace3e71-liberation-fonts-ttf-1.07.4.tar.gz» сохранён [1333593/1333593]
+
+--2021-02-16 16:31:51--  https://dev-www.libreoffice.org/src/5c781723a0d9ed6188960defba8e91cf-liberation-fonts-ttf-2.00.1.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 2285857 (2,2M) [application/octet-stream]
+Сохранение в: «./5c781723a0d9ed6188960defba8e91cf-liberation-fonts-ttf-2.00.1.tar.gz»
+
+     0K ........ ........ ........ ........ ..               100% 1,06M=2,1s
+
+2021-02-16 16:31:53 (1,06 MB/s) - «./5c781723a0d9ed6188960defba8e91cf-liberation-fonts-ttf-2.00.1.tar.gz» сохранён [2285857/2285857]
+
+--2021-02-16 16:31:54--  https://dev-www.libreoffice.org/src/e7a384790b13c29113e22e596ade9687-LinLibertineG-20120116.zip
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 6651982 (6,3M) [application/zip]
+Сохранение в: «./e7a384790b13c29113e22e596ade9687-LinLibertineG-20120116.zip»
+
+     0K ........ ........ ........ ........ ........ ........ 47%  717K 5s
+  3072K ........ ........ ........ ........ ........ ........ 94%  674K 1s
+  6144K .....                                                100%  758K=9,3s
+
+2021-02-16 16:32:03 (698 KB/s) - «./e7a384790b13c29113e22e596ade9687-LinLibertineG-20120116.zip» сохранён [6651982/6651982]
+
+--2021-02-16 16:32:03--  https://dev-www.libreoffice.org/src/907d6e99f241876695c19ff3db0b8923-source-code-pro-2.030R-ro-1.050R-it.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1338551 (1,3M) [application/octet-stream]
+Сохранение в: «./907d6e99f241876695c19ff3db0b8923-source-code-pro-2.030R-ro-1.050R-it.tar.gz»
+
+     0K ........ ........ ....                               100%  762K=1,7s
+
+2021-02-16 16:32:05 (762 KB/s) - «./907d6e99f241876695c19ff3db0b8923-source-code-pro-2.030R-ro-1.050R-it.tar.gz» сохранён [1338551/1338551]
+
+--2021-02-16 16:32:05--  https://dev-www.libreoffice.org/src/edc4d741888bc0d38e32dbaa17149596-source-sans-pro-2.010R-ro-1.065R-it.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1098827 (1,0M) [application/octet-stream]
+Сохранение в: «./edc4d741888bc0d38e32dbaa17149596-source-sans-pro-2.010R-ro-1.065R-it.tar.gz»
+
+     0K ........ ........                                    100%  990K=1,1s
+
+2021-02-16 16:32:07 (990 KB/s) - «./edc4d741888bc0d38e32dbaa17149596-source-sans-pro-2.010R-ro-1.065R-it.tar.gz» сохранён [1098827/1098827]
+
+--2021-02-16 16:32:07--  https://dev-www.libreoffice.org/src/EmojiOneColor-SVGinOT-1.3.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 2961759 (2,8M) [application/octet-stream]
+Сохранение в: «./EmojiOneColor-SVGinOT-1.3.tar.gz»
+
+     0K ........ ........ ........ ........ ........ .....   100%  623K=4,6s
+
+2021-02-16 16:32:12 (623 KB/s) - «./EmojiOneColor-SVGinOT-1.3.tar.gz» сохранён [2961759/2961759]
+
+--2021-02-16 16:32:12--  https://dev-www.libreoffice.org/src/noto-fonts-20171024.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 6646182 (6,3M) [application/octet-stream]
+Сохранение в: «./noto-fonts-20171024.tar.gz»
+
+     0K ........ ........ ........ ........ ........ ........ 47%  636K 5s
+  3072K ........ ........ ........ ........ ........ ........ 94%  567K 1s
+  6144K .....                                                100%  464K=11s
+
+2021-02-16 16:32:23 (590 KB/s) - «./noto-fonts-20171024.tar.gz» сохранён [6646182/6646182]
+
+--2021-02-16 16:32:23--  https://dev-www.libreoffice.org/src/culmus-0.131.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1076737 (1,0M) [application/octet-stream]
+Сохранение в: «./culmus-0.131.tar.gz»
+
+     0K ........ ........                                    100%  221K=4,8s
+
+2021-02-16 16:32:28 (221 KB/s) - «./culmus-0.131.tar.gz» сохранён [1076737/1076737]
+
+--2021-02-16 16:32:28--  https://dev-www.libreoffice.org/src/libre-hebrew-1.0.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 531276 (519K) [application/octet-stream]
+Сохранение в: «./libre-hebrew-1.0.tar.gz»
+
+     0K ........                                             100%  281K=1,8s
+
+2021-02-16 16:32:30 (281 KB/s) - «./libre-hebrew-1.0.tar.gz» сохранён [531276/531276]
+
+--2021-02-16 16:32:30--  https://dev-www.libreoffice.org/src/alef-1.001.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 93498 (91K) [application/octet-stream]
+Сохранение в: «./alef-1.001.tar.gz»
+
+     0K .                                                    100%  302K=0,3s
+
+2021-02-16 16:32:31 (302 KB/s) - «./alef-1.001.tar.gz» сохранён [93498/93498]
+
+--2021-02-16 16:32:31--  https://dev-www.libreoffice.org/src/amiri-0.109.zip
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1501258 (1,4M) [application/zip]
+Сохранение в: «./amiri-0.109.zip»
+
+     0K ........ ........ ......                             100%  756K=1,9s
+
+2021-02-16 16:32:33 (756 KB/s) - «./amiri-0.109.zip» сохранён [1501258/1501258]
+
+--2021-02-16 16:32:33--  https://dev-www.libreoffice.org/src/ttf-kacst_2.01+mry.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 407400 (398K) [application/octet-stream]
+Сохранение в: «./ttf-kacst_2.01+mry.tar.gz»
+
+     0K ......                                               100%  679K=0,6s
+
+2021-02-16 16:32:34 (679 KB/s) - «./ttf-kacst_2.01+mry.tar.gz» сохранён [407400/407400]
+
+--2021-02-16 16:32:34--  https://dev-www.libreoffice.org/src/ReemKufi-0.6.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 85466 (83K) [application/octet-stream]
+Сохранение в: «./ReemKufi-0.6.tar.gz»
+
+     0K .                                                    100%  827K=0,1s
+
+2021-02-16 16:32:35 (827 KB/s) - «./ReemKufi-0.6.tar.gz» сохранён [85466/85466]
+
+--2021-02-16 16:32:35--  https://dev-www.libreoffice.org/src/Scheherazade-2.100.zip
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1114645 (1,1M) [application/zip]
+Сохранение в: «./Scheherazade-2.100.zip»
+
+     0K ........ ........ .                                  100%  817K=1,3s
+
+2021-02-16 16:32:36 (817 KB/s) - «./Scheherazade-2.100.zip» сохранён [1114645/1114645]
+
+--2021-02-16 16:32:36--  https://dev-www.libreoffice.org/src/libmspub-0.1.3.tar.xz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 377716 (369K) [application/octet-stream]
+Сохранение в: «./libmspub-0.1.3.tar.xz»
+
+     0K .....                                                100%  890K=0,4s
+
+2021-02-16 16:32:37 (890 KB/s) - «./libmspub-0.1.3.tar.xz» сохранён [377716/377716]
+
+--2021-02-16 16:32:37--  https://dev-www.libreoffice.org/src/libmwaw-0.3.13.tar.xz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1258220 (1,2M) [application/octet-stream]
+Сохранение в: «./libmwaw-0.3.13.tar.xz»
+
+     0K ........ ........ ...                                100% 1011K=1,2s
+
+2021-02-16 16:32:38 (1011 KB/s) - «./libmwaw-0.3.13.tar.xz» сохранён [1258220/1258220]
+
+--2021-02-16 16:32:38--  https://dev-www.libreoffice.org/src/a8c2c5b8f09e7ede322d5c602ff6a4b6-mythes-1.2.4.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 4910303 (4,7M) [application/octet-stream]
+Сохранение в: «./a8c2c5b8f09e7ede322d5c602ff6a4b6-mythes-1.2.4.tar.gz»
+
+     0K ........ ........ ........ ........ ........ ........ 64%  395K 4s
+  3072K ........ ........ ........ ..                        100%  354K=13s
+
+2021-02-16 16:32:52 (379 KB/s) - «./a8c2c5b8f09e7ede322d5c602ff6a4b6-mythes-1.2.4.tar.gz» сохранён [4910303/4910303]
+
+--2021-02-16 16:32:52--  https://dev-www.libreoffice.org/src/neon-0.30.2.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 932779 (911K) [application/octet-stream]
+Сохранение в: «./neon-0.30.2.tar.gz»
+
+     0K ........ ......                                      100%  371K=2,5s
+
+2021-02-16 16:32:54 (371 KB/s) - «./neon-0.30.2.tar.gz» сохранён [932779/932779]
+
+--2021-02-16 16:32:54--  https://dev-www.libreoffice.org/src/nss-3.55-with-nspr-4.27.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 83363019 (80M) [application/octet-stream]
+Сохранение в: «./nss-3.55-with-nspr-4.27.tar.gz»
+
+     0K ........ ........ ........ ........ ........ ........  3%  521K 2m30s
+  3072K ........ ........ ........ ........ ........ ........  7%  520K 2m25s
+  6144K ........ ........ ........ ........ ........ ........ 11%  446K 2m26s
+  9216K ........ ........ ........ ........ ........ ........ 15%  314K 2m40s
+ 12288K ........ ........ ........ ........ ........ ........ 18%  445K 2m32s
+ 15360K ........ ........ ........ ........ ........ ........ 22%  458K 2m24s
+ 18432K ........ ........ ........ ........ ........ ........ 26%  301K 2m26s
+ 21504K ........ ........ ........ ........ ........ ........ 30%  362K 2m21s
+ 24576K ........ ........ ........ ........ ........ ........ 33%  339K 2m16s
+ 27648K ........ ........ ........ ........ ........ ........ 37%  258K 2m15s
+ 30720K ........ ........ ........ ........ ........ ........ 41%  342K 2m8s
+ 33792K ........ ........ ........ ........ ........ ........ 45%  349K 2m0s
+ 36864K ........ ........ ........ ........ ........ ........ 49%  271K 1m55s
+ 39936K ........ ........ ........ ........ ........ ........ 52%  352K 1m47s
+ 43008K ........ ........ ........ ........ ........ ........ 56%  281K 1m40s
+ 46080K ........ ........ ........ ........ ........ ........ 60%  357K 91s
+ 49152K ........ ........ ........ ........ ........ ........ 64%  629K 80s
+ 52224K ........ ........ ........ ........ ........ ........ 67%  333K 72s
+ 55296K ........ ........ ........ ........ ........ ........ 71%  344K 64s
+ 58368K ........ ........ ........ ........ ........ ........ 75%  422K 55s
+ 61440K ........ ........ ........ ........ ........ ........ 79%  293K 47s
+ 64512K ........ ........ ........ ........ ........ ........ 83%  564K 38s
+ 67584K ........ ........ ........ ........ ........ ........ 86%  580K 29s
+ 70656K ........ ........ ........ ........ ........ ........ 90%  448K 21s
+ 73728K ........ ........ ........ ........ ........ ........ 94%  340K 12s
+ 76800K ........ ........ ........ ........ ........ ........ 98%  441K 4s
+ 79872K ........ ........ ........                           100%  297K=3m39s
+
+2021-02-16 16:36:33 (372 KB/s) - «./nss-3.55-with-nspr-4.27.tar.gz» сохранён [83363019/83363019]
+
+--2021-02-16 16:36:34--  https://dev-www.libreoffice.org/src/libodfgen-0.1.6.tar.bz2
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 446705 (436K) [application/octet-stream]
+Сохранение в: «./libodfgen-0.1.6.tar.bz2»
+
+     0K ......                                               100%  351K=1,2s
+
+2021-02-16 16:36:35 (351 KB/s) - «./libodfgen-0.1.6.tar.bz2» сохранён [446705/446705]
+
+--2021-02-16 16:36:35--  https://dev-www.libreoffice.org/src/openldap-2.4.45.tgz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 5672845 (5,4M) [application/octet-stream]
+Сохранение в: «./openldap-2.4.45.tgz»
+
+     0K ........ ........ ........ ........ ........ ........ 55%  230K 11s
+  3072K ........ ........ ........ ........ ......           100%  220K=25s
+
+2021-02-16 16:37:00 (225 KB/s) - «./openldap-2.4.45.tgz» сохранён [5672845/5672845]
+
+--2021-02-16 16:37:00--  https://dev-www.libreoffice.org/src/liborcus-0.13.3.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 2327631 (2,2M) [application/octet-stream]
+Сохранение в: «./liborcus-0.13.3.tar.gz»
+
+     0K ........ ........ ........ ........ ...              100%  769K=3,0s
+
+2021-02-16 16:37:04 (769 KB/s) - «./liborcus-0.13.3.tar.gz» сохранён [2327631/2327631]
+
+--2021-02-16 16:37:04--  https://dev-www.libreoffice.org/src/libpagemaker-0.0.4.tar.xz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 306496 (299K) [application/octet-stream]
+Сохранение в: «./libpagemaker-0.0.4.tar.xz»
+
+     0K ....                                                 100%  605K=0,5s
+
+2021-02-16 16:37:04 (605 KB/s) - «./libpagemaker-0.0.4.tar.xz» сохранён [306496/306496]
+
+--2021-02-16 16:37:04--  https://dev-www.libreoffice.org/src/pdfium-4306.tar.bz2
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 7220464 (6,9M) [application/octet-stream]
+Сохранение в: «./pdfium-4306.tar.bz2»
+
+     0K ........ ........ ........ ........ ........ ........ 43%  208K 19s
+  3072K ........ ........ ........ ........ ........ ........ 87%  303K 4s
+  6144K ........ ......                                      100%  321K=28s
+
+2021-02-16 16:37:33 (254 KB/s) - «./pdfium-4306.tar.bz2» сохранён [7220464/7220464]
+
+--2021-02-16 16:37:33--  https://dev-www.libreoffice.org/src/poppler-0.82.0.tar.xz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1553336 (1,5M) [application/octet-stream]
+Сохранение в: «./poppler-0.82.0.tar.xz»
+
+     0K ........ ........ .......                            100%  295K=5,1s
+
+2021-02-16 16:37:38 (295 KB/s) - «./poppler-0.82.0.tar.xz» сохранён [1553336/1553336]
+
+--2021-02-16 16:37:38--  https://dev-www.libreoffice.org/src/c0b4799ea9850eae3ead14f0a60e9418-postgresql-9.2.1.tar.bz2
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 16113737 (15M) [application/octet-stream]
+Сохранение в: «./c0b4799ea9850eae3ead14f0a60e9418-postgresql-9.2.1.tar.bz2»
+
+     0K ........ ........ ........ ........ ........ ........ 19%  311K 41s
+  3072K ........ ........ ........ ........ ........ ........ 39%  493K 25s
+  6144K ........ ........ ........ ........ ........ ........ 58%  359K 17s
+  9216K ........ ........ ........ ........ ........ ........ 78%  314K 10s
+ 12288K ........ ........ ........ ........ ........ ........ 97%  216K 1s
+ 15360K .....                                                100%  186K=51s
+
+2021-02-16 16:38:29 (310 KB/s) - «./c0b4799ea9850eae3ead14f0a60e9418-postgresql-9.2.1.tar.bz2» сохранён [16113737/16113737]
+
+--2021-02-16 16:38:29--  https://dev-www.libreoffice.org/src/libqxp-0.0.1.tar.xz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 340184 (332K) [application/octet-stream]
+Сохранение в: «./libqxp-0.0.1.tar.xz»
+
+     0K .....                                                100%  191K=1,7s
+
+2021-02-16 16:38:32 (191 KB/s) - «./libqxp-0.0.1.tar.xz» сохранён [340184/340184]
+
+--2021-02-16 16:38:32--  https://dev-www.libreoffice.org/src/a39f6c07ddb20d7dd2ff1f95fa21e2cd-raptor2-2.0.15.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1886657 (1,8M) [application/octet-stream]
+Сохранение в: «./a39f6c07ddb20d7dd2ff1f95fa21e2cd-raptor2-2.0.15.tar.gz»
+
+     0K ........ ........ ........ ....                      100%  650K=2,8s
+
+2021-02-16 16:38:35 (650 KB/s) - «./a39f6c07ddb20d7dd2ff1f95fa21e2cd-raptor2-2.0.15.tar.gz» сохранён [1886657/1886657]
+
+--2021-02-16 16:38:35--  https://dev-www.libreoffice.org/src/1f5def51ca0026cd192958ef07228b52-rasqal-0.9.33.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1595647 (1,5M) [application/octet-stream]
+Сохранение в: «./1f5def51ca0026cd192958ef07228b52-rasqal-0.9.33.tar.gz»
+
+     0K ........ ........ ........                           100%  461K=3,4s
+
+2021-02-16 16:38:39 (461 KB/s) - «./1f5def51ca0026cd192958ef07228b52-rasqal-0.9.33.tar.gz» сохранён [1595647/1595647]
+
+--2021-02-16 16:38:39--  https://dev-www.libreoffice.org/src/e5be03eda13ef68aabab6e42aa67715e-redland-1.0.17.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1621566 (1,5M) [application/octet-stream]
+Сохранение в: «./e5be03eda13ef68aabab6e42aa67715e-redland-1.0.17.tar.gz»
+
+     0K ........ ........ ........                           100%  645K=2,5s
+
+2021-02-16 16:38:41 (645 KB/s) - «./e5be03eda13ef68aabab6e42aa67715e-redland-1.0.17.tar.gz» сохранён [1621566/1621566]
+
+--2021-02-16 16:38:41--  https://dev-www.libreoffice.org/src/librevenge-0.0.4.tar.bz2
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 529833 (517K) [application/octet-stream]
+Сохранение в: «./librevenge-0.0.4.tar.bz2»
+
+     0K ........                                             100%  249K=2,1s
+
+2021-02-16 16:38:44 (249 KB/s) - «./librevenge-0.0.4.tar.bz2» сохранён [529833/529833]
+
+--2021-02-16 16:38:44--  https://dev-www.libreoffice.org/src/libstaroffice-0.0.5.tar.xz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 682380 (666K) [application/octet-stream]
+Сохранение в: «./libstaroffice-0.0.5.tar.xz»
+
+     0K ........ ..                                          100%  603K=1,1s
+
+2021-02-16 16:38:45 (603 KB/s) - «./libstaroffice-0.0.5.tar.xz» сохранён [682380/682380]
+
+--2021-02-16 16:38:45--  https://dev-www.libreoffice.org/src/0168229624cfac409e766913506961a8-ucpp-1.3.2.tar.gz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 96939 (95K) [application/octet-stream]
+Сохранение в: «./0168229624cfac409e766913506961a8-ucpp-1.3.2.tar.gz»
+
+     0K .                                                    100%  626K=0,2s
+
+2021-02-16 16:38:46 (626 KB/s) - «./0168229624cfac409e766913506961a8-ucpp-1.3.2.tar.gz» сохранён [96939/96939]
+
+--2021-02-16 16:38:46--  https://dev-www.libreoffice.org/src/libvisio-0.1.7.tar.xz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 854296 (834K) [application/octet-stream]
+Сохранение в: «./libvisio-0.1.7.tar.xz»
+
+     0K ........ .....                                       100%  302K=2,8s
+
+2021-02-16 16:38:49 (302 KB/s) - «./libvisio-0.1.7.tar.xz» сохранён [854296/854296]
+
+--2021-02-16 16:38:49--  https://dev-www.libreoffice.org/src/libwpd-0.10.2.tar.xz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 536400 (524K) [application/octet-stream]
+Сохранение в: «./libwpd-0.10.2.tar.xz»
+
+     0K ........                                             100%  351K=1,5s
+
+2021-02-16 16:38:51 (351 KB/s) - «./libwpd-0.10.2.tar.xz» сохранён [536400/536400]
+
+--2021-02-16 16:38:51--  https://dev-www.libreoffice.org/src/libwpg-0.3.2.tar.xz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 326840 (319K) [application/octet-stream]
+Сохранение в: «./libwpg-0.3.2.tar.xz»
+
+     0K ....                                                 100%  487K=0,7s
+
+2021-02-16 16:38:52 (487 KB/s) - «./libwpg-0.3.2.tar.xz» сохранён [326840/326840]
+
+--2021-02-16 16:38:52--  https://dev-www.libreoffice.org/src/libwps-0.4.8.tar.xz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 648512 (633K) [application/octet-stream]
+Сохранение в: «./libwps-0.4.8.tar.xz»
+
+     0K ........ .                                           100%  299K=2,1s
+
+2021-02-16 16:38:54 (299 KB/s) - «./libwps-0.4.8.tar.xz» сохранён [648512/648512]
+
+--2021-02-16 16:38:54--  https://dev-www.libreoffice.org/src/libzmf-0.0.2.tar.xz
+Распознаётся dev-www.libreoffice.org (dev-www.libreoffice.org)… 89.238.68.201, 2a00:1828:a012:201::1
+Подключение к dev-www.libreoffice.org (dev-www.libreoffice.org)|89.238.68.201|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 320952 (313K) [application/octet-stream]
+Сохранение в: «./libzmf-0.0.2.tar.xz»
+
+     0K ....                                                 100%  415K=0,8s
+
+2021-02-16 16:38:55 (415 KB/s) - «./libzmf-0.0.2.tar.xz» сохранён [320952/320952]
+
